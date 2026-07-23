@@ -274,7 +274,7 @@ This project is licensed under the MIT License.
 ## Contact
 
 For support or inquiries, please contact:
-- Email: moshiurrahmandeap@gmail.com
+- Email: khalidsiam1754@gmail.com
 - Through the contact form on the website
 
 ## Acknowledgments
